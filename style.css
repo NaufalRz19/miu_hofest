@@ -10,7 +10,7 @@ div{
   }
 .dropdown-item:hover{
     background-color: aqua;
-    color: white;
+    color: #FFFFFF;
   }  
   .dropdown-item span {
     cursor: pointer;
